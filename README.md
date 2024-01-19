@@ -1,0 +1,1 @@
+This project brings the iconic Snake game to life, where players control a snake that grows longer with each successfully consumed food item. The objective is to navigate the snake across the screen, avoiding collisions with walls and the snake's own body.
